@@ -25,7 +25,6 @@ let words = ['inception', 'aliens', 'argo', 'jumanji', 'frozen', 'ratatouille', 
     function check(event) {
         let character = event.target; 
         guess = character.id;
-        console.log('event: ', event.target);
         let position = word.indexOf(guess);
             if (position > -1) {
                 for (let j = position; j < word.length; j++) {
@@ -40,7 +39,6 @@ let words = ['inception', 'aliens', 'argo', 'jumanji', 'frozen', 'ratatouille', 
             } else {
                 lives--;
                 showLives.innerHTML = lives;
-                console.log('showlives: ',showLives.innerHTML,'lives: ', lives);
                 guessedLetter.push(guess);
                 guessedLet.innerHTML = guessedLetter;
             }
