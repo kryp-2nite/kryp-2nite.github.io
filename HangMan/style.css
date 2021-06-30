@@ -1,0 +1,55 @@
+
+body {
+    text-align: center;
+    background-color:orange;
+}
+h1 {
+    color: black;
+}
+h2 {
+    color: black;
+}
+h3 {
+    font-size: 35px;
+}
+#lives-left {
+    margin: 20px;
+}
+header {
+box-sizing: content-box;
+width: 100%;
+border: solid #5B6DCD 10px;
+padding: 5px;
+margin: 25px;
+text-align: center;
+}
+#secret-word {
+    font-size: 70px;
+    margin: 50px;
+    text-align: center;
+}
+#lives-left {
+    font-size: 40px;
+}
+.letters {
+    text-align: center;
+    font-size: 35px;
+    background-color: orange;
+    border: 1px solid white;
+    margin: 5px;
+}
+.letters:hover {
+    background-color: white;
+}
+#guessed-letter{
+    font-size: 35px;
+}
+#button {
+    font-size: 30px;
+    background-color: orange;
+    border: 1px solid white;
+    margin: 10px;
+}
+#button:hover{
+    background-color: white;
+}
