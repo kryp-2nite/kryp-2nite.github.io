@@ -40,4 +40,3 @@ Additional Information: i liked doing this project. it gets you to start thinkin
 
 https://github.com/kryp-2nite/kryp-2nite.github.io/tree/main/HangMan
 
-file:///Users/jonathanflores/projects/HangMan/index.html
