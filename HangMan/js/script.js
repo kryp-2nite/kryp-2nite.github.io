@@ -20,7 +20,7 @@ let secretWord = document.getElementById('secret-word');
 let guessedLet = document.getElementById('guessed-letter');
 let restart = document.getElementById('button');
 let alphabet = document.getElementById('alphabet');
-let words = ['inception', 'aliens', 'argo', 'jumanji', 'frozen', 'ratatouille', 'divergent'];
+let words = ['inception', 'aliens', 'argo', 'jumanji', 'frozen', 'ratatouille', 'divergent', 'madagascar', 'zootopia', 'zombieland', 'tangled','insidious'];
 
     function check(event) {
         let character = event.target; 
