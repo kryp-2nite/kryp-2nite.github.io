@@ -36,3 +36,6 @@ Approach: the first thing i had to do was break down the game into small steps. 
 Challenges: Oh boy where do i start. some of the challenges i had was how to write the game out logically i was having issues with the letters showing when the letter was guessed right. Also i had issues with restarting the game where the letters that was guess needed to disappear. the way i over came these issues is by either googling it or getting help from August. she gave me a new motto to live by for coding, "Either its going to work or it is not".
 
 Additional Information: i liked doing this project. it gets you to start thinking like a Software Engineer. Also wireframing is a good way to start anyproject you do. 
+
+
+https://github.com/kryp-2nite/kryp-2nite.github.io/tree/main/HangMan
