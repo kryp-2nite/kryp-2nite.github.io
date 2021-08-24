@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Source+Code+Pro:wght@200&display=swap');
+
+.bio {
+    
+    align-items: center;
+    text-align: center;
+    border: solid black 2px;
+}
+
+.about {
+    text-align: center;
+    border: solid black 2px;
+}
+
+.title {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: 100;
+    color: red;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}

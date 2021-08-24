@@ -1,0 +1,8 @@
+.bio-wrap {
+    display: flexbox;
+    align-items: center;
+    background-color: rgb(54, 199, 54);
+    color: green;
+    border: solid blue 3px;
+    width: 300px;
+}

@@ -1,0 +1,24 @@
+.links {
+    display: flex;
+    text-align: center;
+    color: red;
+    width: auto;
+    border: solid red 2px;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.youtube {
+    padding: 45px;
+    text-decoration: none;
+}
+
+.twitter {
+    padding: 45px;
+    text-decoration: none;
+}
+
+.instagram {
+    padding: 45px;
+    text-decoration: none;
+}
